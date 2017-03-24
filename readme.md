@@ -5,4 +5,4 @@ Nueva versión del Sistema de Patrimonio 2015 que permita centralizar la informa
 ## Desarrollado por:
 
 Martínez Ramírez Jennifer Abril - MRJO130170
- [Contáctame](https://mail.google.com/mail/u/0/#inbox?compose=15afdadcba584b91).
+ [Contáctame](mailto:mrjo130170@upemor.edu.mx).
